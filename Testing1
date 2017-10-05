@@ -1,0 +1,19 @@
+/* Testing1
+ * a class i think that will work? I'm just typing in text after making a new folder on github.
+ * I dont actually know if this will work but whatever its here now.
+ *
+ *by Grant Bowman, last edited 2017-10-05
+ */
+ 
+
+public class Testing1
+{
+
+  public static void main(String[] args)
+  {
+    System.out.println("This is just a println form Testing1, github test)";
+  }
+ 
+}
+
+
